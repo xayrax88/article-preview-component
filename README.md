@@ -2,7 +2,8 @@
 
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Hi! 👋
+This was my first exercise from Front End Mentor. I have been practicing front end coding for a while now since 2022 and am still continuously practicing and sharpening my skills.
 
 Thanks for checking out this front-end coding challenge.
 
